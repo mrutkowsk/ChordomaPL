@@ -10,7 +10,7 @@ try 01
 
 -------
 try 02
-![plot222](https://github.com/mrutkowsk/ChordomaPL/blob/main/_images/testPhoto.png)
+![plot222nowytest sdf sdf ](https://github.com/mrutkowsk/ChordomaPL/blob/main/_images/testPhoto.png)
 
 
 -------
@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/KrisKasprzak/ILI9341_t3_controls/master/Equali
 
 ----
 try 05
+
 ![plot005](https://github.com/ChordomaPL/_images/testPhoto.png)
 
 https://github.com/KrisKasprzak/ILI9341_t3_controls/blob/master/Equalizer.BMP
