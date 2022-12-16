@@ -9,7 +9,9 @@ try 01
 ![plot111](./_images/testPhoto.png)
 
 -------
-try 02
+try 02 sdf sdf
+
+
 ![plot222nowytest sdf sdf ](https://github.com/mrutkowsk/ChordomaPL/blob/main/_images/testPhoto.png)
 
 
