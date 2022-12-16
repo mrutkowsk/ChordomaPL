@@ -14,6 +14,14 @@ try 02 sdf sdf
 
 ![plot222nowytest sdf sdf ](https://github.com/mrutkowsk/ChordomaPL/blob/main/_images/testPhoto.png)
 
+-------------
+try 02.2
+
+[aaaa bbbb image czy bedzie ](https://raw.githubusercontent.com/mrutkowsk/ChordomaPL/main/_images/testPhoto.png)
+
+----
+https://raw.githubusercontent.com/mrutkowsk/ChordomaPL/main/_images/testPhoto.png
+
 
 -------
 try 03
