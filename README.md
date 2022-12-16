@@ -25,4 +25,11 @@ try 04
 https://raw.githubusercontent.com/KrisKasprzak/ILI9341_t3_controls/master/Equalizer.BMP
 
 
+
+----
+try 05
+![plot005](https://github.com/ChordomaPL/_images/testPhoto.png)
+
+https://github.com/KrisKasprzak/ILI9341_t3_controls/blob/master/Equalizer.BMP
+
 czy to bedzie widac ?
