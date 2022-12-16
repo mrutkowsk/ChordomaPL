@@ -6,7 +6,7 @@ Ciekawe czy to 222
 
 ----
 try 01
-![plot111](./_images/testPhoto.png)
+![plot111](/_images/testPhoto.png)
 
 -------
 try 02 sdf sdf
