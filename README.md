@@ -1,5 +1,4 @@
-# ChordomaPL
-Moja historia z moim rakiem
+# Moja historia z moim rakiem
 
 Jest rok 2014. Wszystko wygląda super dookoła.
 Udało mi się wydostać z bardzo toksycznego związku. Niestety nie byłem wystarczająco dorosły, żeby to zrobić szybciej i to by była całkiem "ciekawa" historia dla tych, którzy by chcieli się dowiedzieć, w jakich związkach nie powinno się być ...ale to, co teraz pisze ma inny kierunek, gdzie będzie dużo ciemniej, ale od czasu do czasu orientuje się, że wiele nowych rzeczy powoli zaczynam rozumieć, i niestety wiele z nich dociera do mnie za późno :)  , ok  zaczynamy
