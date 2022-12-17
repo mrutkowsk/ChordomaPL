@@ -1,20 +1,17 @@
 # ChordomaPL
 Moja historia z moim rakiem
 
+Jest rok 2014. Wszystko wygląda super dookoła.
+Udało mi się wydostać z bardzo toksycznego związku. Niestety nie byłem wystarczająco dorosły, żeby to zrobić szybciej i to by była całkiem "ciekawa" historia dla tych, którzy by chcieli się dowiedzieć, w jakich związkach nie powinno się być ...ale to, co teraz pisze ma inny kierunek, gdzie będzie dużo ciemniej, ale od czasu do czasu orientuje się, że wiele nowych rzeczy powoli zaczynam rozumieć, i niestety wiele z nich dociera do mnie za późno :)  , ok  zaczynamy
 
-Jest rok 2014. Wsystko wyglada super dookola. 
-Udalo mi się wydostac z bardzo toksycznego zwiazku. Niestety nie bylem wystarczajaco dorosly zzeby to zrobic szybciej i to by byla calkiem "ciekawa" historja dla tych, ktorzy by chcieli się dowiedziec w jakkich zwiazkach nie powinno się byc ...ale to co teraz pisze ma inny kierunek, gdzie bedzie duzo ciemniej, ale of czasu do czasu zorietuje się ze wiele nowych rzeczy powoli zaczynam rozumiec, i niesety wiele z nich dociera do mnie za pozno :)  , ok  zaczynamy
+- początki
 
-- poczatki
-
-   Mniej wiecej na poczatku 2014 zauwazylem ze zaczyna mnie cos bolec w okolicach kosci ogonowej i zoladka.
-    - Wizyta u GP (lekarz pierwszego kontaktu) gdzie po opisaniy problemu przepisane zostaly mi tabletki na zatwardzenie. Nie zastanawiajac się za bardzo nad tym (wtedy myslalem ze jestem niezniszczalny) bol pzeszedl po jakims czasie, prawdopodobnie zadne tabletki nie mialy z tym nic wspolnego.    
-    - 2014 November : bol powrocil i na dodatek byl bardziej intensywny. Jedynym pozytywem w tym momecie bylo to ze pstanowilem pojsc do innego doktora, zeby sprobowac zdobyc inna opinje, co się okazalo extremalnie dobra decyzja. Rzadko, ale czasami mam dobre pomysly
-         - (__DATA__) Wizyta u lekarza w Burwood. Dr (__NAME__) mnie mile zaskoczyla (zawsze mam wielki respekt do tego), powiedziala ze nie wie co to jest. Zostalem skierowany na UltraSound Scan.
-         - ten sam dzien. Na UltraSound pojawila się niespodzianka, cos czego nie powinno byc i na dodatek cos czego w tym miejscu nigdy nie widzieli. Zostalem skierowany na 3D CTScan. I po niecalej godzinie mialem wszystko zrobione z rezultatem. Diagnoza : Duze prawdopodobienstwo ze to jest Chordoma .
-         - ten sam dzien GP (__NAME__). Dostalem skierowanie do Profesora Paul Stalley
-         
-         
+   Mniej więcej na początku 2014 zauważyłem, że zaczyna mnie coś bolec w okolicach kości ogonowej i żołądka.
+	- Wizyta u GP (lekarz pierwszego kontaktu) gdzie po opisaniu problemu przepisane zostały mi tabletki na zatwardzenie. Nie zastanawiając się za bardzo nad tym (wtedy myślałem, że jestem niezniszczalny) ból przeszedł po jakimś czasie, prawdopodobnie żadne tabletki nie miały z tym nic wspólnego.    
+	- 2014 Listopad: ból powrócił i na dodatek był bardziej intensywny. Jedynym pozytywem w tym momencie było to ze postanowiłem pójść do innego doktora, żeby spróbować zdobyć inna opinie, co się okazało ekstremalnie dobra decyzja. Rzadko, ale czasami mam dobre pomysły
+     	- (__DATA__) Wizyta u lekarza w Burwood. Dr (__NAME__) mnie mile zaskoczyła (zawsze mam wielki respekt do tego), powiedziała, że: “nie wie co to jest”. Zostałem skierowany na UltraSound Scan.
+     	- ten sam dzień. Na UltraSound pojawiła się niespodzianka, coś czego nie powinno być i na dodatek coś, czego w tym miejscu nigdy nie widzieli. Zostałem skierowany na 3D CT Scan. I po niecałej godzinie miałem wszystko zrobione z rezultatem. Diagnoza: Duże prawdopodobieństwo ze, to jest Chordoma .
+     	- ten sam dzień GP (__NAME__). Dostałem skierowanie do Profesora Paul Stalley
 
 -------
 -------
